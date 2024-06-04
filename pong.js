@@ -1,3 +1,4 @@
+alert("Player 1 'A','Q' \n Player 2 'P','M' \n 'Space' to Start")
 console.log('INIT')
 const P1 = {div: document.createElement('div')}
 const P2 = {div: document.createElement('div')}
